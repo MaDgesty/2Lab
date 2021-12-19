@@ -1,0 +1,16 @@
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.exe
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.deps.json
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.runtimeconfig.json
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.runtimeconfig.dev.json
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.dll
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\ref\person.dll
+C:\Users\MaJe\source\repos\person\bin\Debug\net5.0\person.pdb
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.csproj.AssemblyReference.cache
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.AssemblyInfoInputs.cache
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.AssemblyInfo.cs
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.csproj.CoreCompileInputs.cache
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.dll
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\ref\person.dll
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.pdb
+C:\Users\MaJe\source\repos\person\obj\Debug\net5.0\person.genruntimeconfig.cache
